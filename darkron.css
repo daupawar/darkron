@@ -2,21 +2,20 @@
 * daupawar@gmail.com
 */
 
-.cm-s-darkron.CodeMirror {
+.CodeMirror {
     background: #293134;
     color: #f8f8f8;
     font-size: 18px !important;
 }
 
-.cm-s-darkron div.CodeMirror-selected {
+.CodeMirror-selected {
     background-color: #484848;
 }
-.cm-s-darkron.CodeMirror .CodeMirror-selectedtext
+.CodeMirror-selectedtext
 {
     background-color: #804000;
 }
-
-.cm-s-darkron .CodeMirror-gutters {
+.CodeMirror-gutters {
     background: #222;
     border-right: 1px solid #444;
 }
