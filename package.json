@@ -1,0 +1,15 @@
+{
+    "name": "darkron",
+    "title": "darkron",
+    "description": "This theme is for dark theme lovers",
+    "homepage": "https://github.com/daupawar/darkron",
+    "version": "1.0.0",
+    "author": "Rohan Pawar <daupawar@gmail.com>",
+    "license": "MIT",
+    "theme": {
+        "file": "darkron.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
