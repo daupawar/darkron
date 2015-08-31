@@ -28,7 +28,7 @@ span.cm-operator	{ color: inherit; }
 
 span.cm-number		{ color: #ff7272; }
 
-span.cm-bracket		{ color: #f8f8f8; }
+span.cm-bracket		{ color: #93C763; }
 
 
 /* MISC ---------------------------------------------------------------------- */
@@ -77,9 +77,11 @@ span.cm-bracket		{ color: #f8f8f8; }
 
     background: transparent !important;
     border-bottom: 3px solid #FF8F3F !important;
+/*
     border:1pt solid #FF8F3F;
     border-radius:0.5em;
     color: #fff !important;
+*/
 }
 
 .CodeMirror-matchingtag {
