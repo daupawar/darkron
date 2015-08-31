@@ -7,7 +7,7 @@
     "author": "Rohan Pawar <daupawar@gmail.com>",
     "license": "MIT",
     "theme": {
-        "file": "darkron.less",
+        "file": "darkron.css",
         "dark": true,
         "addModeClass": true
     },
